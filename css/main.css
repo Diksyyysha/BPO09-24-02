@@ -24,12 +24,63 @@ body {
     color: white;
 }
 
+.header-title-2 {
+    margin: 0;
+    margin-right: 1050px;
+    margin-bottom: 25px;
+    font-size: 46px;
+    font-weight: bold;
+    line-height: 1.3;
+    text-align: center;
+    color: white;
+}
+
 .header-subtitle {
     margin: 0;
     font-size: 16px;
     font-weight: bold;
     line-height: 1.5;
     text-align: center;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: white;
+}
+
+.header-subtitle-2 {
+    margin: 0;
+    margin-right: 1000px;
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: left;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: white;
+}
+
+.container-fluid {
+    background-color: #121211;
+}
+
+.bg-body-tertiary {
+    background-color: #121211;
+}
+
+.navbar-brand {
+    margin: 0;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 1.5;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: white;
+}
+
+.nav-item {
+    margin: 0;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 1.5;
     letter-spacing: 0.2em;
     text-transform: uppercase;
     color: white;
