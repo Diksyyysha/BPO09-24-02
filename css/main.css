@@ -1,4 +1,4 @@
-.body {
+body {
     margin: 0;
     font-family: 'Montserrat', sans-serif;
    }
@@ -59,7 +59,7 @@
 
 .header-subtitle-2 {
     margin: 0;
-    margin-right: 000px;
+    margin-right: 0px;
     font-size: 13px;
     font-weight: bold;
     line-height: 1.5;
