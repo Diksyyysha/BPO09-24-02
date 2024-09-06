@@ -85,3 +85,22 @@ body {
     text-transform: uppercase;
     color: white;
 }
+
+.btn {
+    margin: 0;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 1.5;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: white;
+}
+
+.dropdown-item {
+    margin: 0;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 1.5;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+}
