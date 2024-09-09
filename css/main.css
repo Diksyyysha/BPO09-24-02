@@ -27,6 +27,7 @@ body {
 
 .header-title {
     margin: 0;
+    margin-top: auto;
     margin-bottom: 25px;
     font-size: 56px;
     font-weight: bold;
@@ -64,6 +65,18 @@ body {
     font-weight: bold;
     line-height: 1.5;
     text-align: left;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: white;
+}
+
+.header-subtitle-3 {
+    margin: 0;
+    margin-top: auto;
+    margin-left: auto;
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 1.5;
     letter-spacing: 0.2em;
     text-transform: uppercase;
     color: white;
